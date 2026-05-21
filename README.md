@@ -26,6 +26,3 @@
   "cloud_and_devops": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform", "CI/CD", "Git"]
 }
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nv-9&show_icons=true&locale=en&layout=compact" alt="nv-9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nv-9&show_icons=true&locale=en" alt="nv-9" /></p>
